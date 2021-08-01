@@ -5,7 +5,7 @@ SMTube is an application that allows to browse, search and play YouTube videos
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/smtube/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/smtube/raw/main/install.sh)"
 ```
 
 Manual install:
